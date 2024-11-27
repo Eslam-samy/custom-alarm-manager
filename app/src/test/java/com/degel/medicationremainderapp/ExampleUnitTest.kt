@@ -1,4 +1,4 @@
-package gaur.himanshu.medicationremainderapp
+package com.degel.medicationremainderapp
 
 import org.junit.Test
 

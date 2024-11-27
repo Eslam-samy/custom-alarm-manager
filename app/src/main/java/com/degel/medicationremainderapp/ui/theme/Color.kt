@@ -1,4 +1,4 @@
-package gaur.himanshu.medicationremainderapp.ui.theme
+package com.degel.medicationremainderapp.ui.theme
 
 import androidx.compose.ui.graphics.Color
 

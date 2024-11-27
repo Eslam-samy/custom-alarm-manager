@@ -6,11 +6,11 @@ plugins {
 }
 
 android {
-    namespace = "gaur.himanshu.medicationremainderapp"
+    namespace = "com.degel.medicationremainderapp"
     compileSdk = 34
 
     defaultConfig {
-        applicationId = "gaur.himanshu.medicationremainderapp"
+        applicationId = "com.degel.medicationremainderapp"
         minSdk = 24
         targetSdk = 34
         versionCode = 1

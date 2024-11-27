@@ -1,4 +1,4 @@
-package gaur.himanshu.medicationremainderapp
+package com.degel.medicationremainderapp
 
 import androidx.test.platform.app.InstrumentationRegistry
 import androidx.test.ext.junit.runners.AndroidJUnit4
@@ -19,6 +19,6 @@ class ExampleInstrumentedTest {
     fun useAppContext() {
         // Context of the app under test.
         val appContext = InstrumentationRegistry.getInstrumentation().targetContext
-        assertEquals("gaur.himanshu.medicationremainderapp", appContext.packageName)
+        assertEquals("com.degel.medicationremainderapp", appContext.packageName)
     }
 }
